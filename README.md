@@ -60,3 +60,4 @@ Sample from the hard difficulty:
 
 ## Built with
 [wbochenski](https://github.com/wbochenski)
+
